@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Supppie and a Coder<br>👀 I’m interested in Java and backend development<br>📚 Currently diving deeper into Spring-boot, React Js and exploring Backend.<br>⚡ Fun fact: snails are the fastest.
+👋 Hi, I’m @Supppie and a Coder<br>👀 I’m interested in Java and backend development<br>📚 Currently diving deeper into Spring-boot and exploring Backend.<br>⚡ Fun fact: snails are the fastest.
 
 
 ## 🌐 Socials:
